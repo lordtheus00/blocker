@@ -1,0 +1,13 @@
+{
+    "admin_password": "nextgen",
+    "block": {
+        "ip": true,
+        "asn": true,
+        "ua": true,
+        "host": true,
+        "stopbot": true,
+        "country": true
+    },
+    "allowed_countries": "ID,AU,NZ",
+    "stopbot_api_key": "fa5d238d96f3808883a9ba1b575b2cf1"
+}
